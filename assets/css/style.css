@@ -4,6 +4,10 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
 a {
   color: #18d26e;
   transition: 0.5s;
@@ -144,11 +148,16 @@ h6 {
 
 #header .logo img {
   max-height: 40px;
+  width: 150px;
 }
 
 @media (max-width: 992px) {
   #header .logo {
     font-size: 28px;
+  }
+  #header .logo img {
+    max-height: 40px;
+    width: 100px;
   }
 }
 
