@@ -147,7 +147,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 55px;
   width: 150px;
 }
 
@@ -645,7 +645,7 @@ section {
 /* Featured Services Section
 --------------------------------*/
 #featured-services {
-  background: #000;
+  background: #18d26e;
 }
 
 #featured-services .box {
@@ -653,12 +653,7 @@ section {
 }
 
 #featured-services .box-bg {
-  background-image: linear-gradient(
-    0deg,
-    #000000 0%,
-    #242323 50%,
-    #000000 100%
-  );
+  background-image: linear-gradient();
 }
 
 #featured-services i {
@@ -679,7 +674,7 @@ section {
 }
 
 #featured-services h4 a:hover {
-  color: #18d26e;
+  color: black;
 }
 
 #featured-services p {
