@@ -37,15 +37,10 @@ img {
   width: 100%;
   height: auto;
 }
-.about-us-banner {
-  width: 100%;
-}
 
-.we-do-cont .we-do h5 {
+.industry-info-head {
   text-align: center;
-  font-weight: 600;
 }
-
-.we-do-cont {
-  padding: 40px;
+.industry-info-text {
+  padding: 30px;
 }
