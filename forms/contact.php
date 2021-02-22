@@ -3,7 +3,7 @@
 
 
   
-  $receiving_email_address = 'kareemarike@gmail.com';
+  $receiving_email_address = 'info@exomasltd.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
@@ -22,7 +22,7 @@
  //You need to enter your correct SMTP credentials
   /*
   $contact->smtp = array(
-    'host' => 'kareemarike@gmail.com',
+    'host' => 'info@exomasltd.com',
     'username' => 'example',
     'password' => 'pass',
     'port' => '587'
